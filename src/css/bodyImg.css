@@ -1,0 +1,14 @@
+header{
+	background-image: url("../assets/coffee.jpg");
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.title img{
+	position: absolute;
+	width: 1000px;
+	top: 40%;
+	left: 20%;
+	
+}
